@@ -1,0 +1,35 @@
+.products{
+    display: flex;
+    justify-content: center;
+    gap:7em;
+}
+
+
+.product-details
+{
+    background-color: rgb(90, 255, 128);
+    padding: 1em;
+    width: fit-content;
+    margin-block: 5em;
+    margin-inline: auto;
+    text-align: center;
+    border: .2em solid black;
+}
+
+.discount
+{
+    background-color: rgb(132, 0, 255);
+    color:white;
+    font-size: 1.2em;
+    margin-block: 1em;
+    margin-bottom: 3em;
+    text-align: center;
+    padding: 1em;
+    border-radius: .5em;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+  }
+  
